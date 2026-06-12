@@ -9,7 +9,7 @@ data structures including Stack and Queue, interactive
 maps using Leaflet.js, and clean component-based 
 architecture.
 
-Live demo: Coming Soon
+Live demo: bike-flow-console.vercel.app
 
 A micro-mobility bicycle share tracking and management dashboard for Mumbai city stations. BikeFlow Console demonstrates core data structures and frontend patterns through a compact, production-oriented React app built with Vite.
 
@@ -21,7 +21,7 @@ A micro-mobility bicycle share tracking and management dashboard for Mumbai city
 - **Description:** A micro-mobility bicycle share tracking and management dashboard for Mumbai city stations
 - **Author:** Manan Jain
 - **GitHub:** https://github.com/mananjain20/BikeFlowConsole
-- **Live Demo:** Coming Soon
+- **Live Demo:**  bike-flow-console.vercel.app
 
 ## 📸 Screenshots
 
