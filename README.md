@@ -175,3 +175,29 @@ These features are intentionally left as integration-ready UI components so futu
 ## Author
 
 Manan Jain — https://github.com/mananjain20
+
+## 📸 Screenshots
+
+### 1. Dock Availability Dashboard
+![Dashboard](screenshots/1-dashboard.png)
+
+### 2. Rental Management
+![Rentals](screenshots/2-rentals.png)
+
+### 3. Repair Queue
+![Repair Queue](screenshots/3-repair-queue.png)
+
+### 4. Sort Stations
+![Sort Stations](screenshots/4-sort-stations.png)
+
+### 5. City Map Hub
+![City Map](screenshots/5-city-map.png)
+
+### 6. Truck Loader
+![Truck Loader](screenshots/6-truck-loader.png)
+
+### 7. GPS Checker
+![GPS Checker](screenshots/7-gps-checker.png)
+
+### 8. Route Planner
+![Route Planner](screenshots/8-route-planner.png)
