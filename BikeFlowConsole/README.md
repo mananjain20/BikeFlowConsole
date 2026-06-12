@@ -1,4 +1,13 @@
 # 🚲 BikeFlow Console
+BikeFlow Console is a real-time micro-mobility 
+bicycle share tracking and management dashboard. 
+It monitors dock availability, manages repair queues, 
+tracks bike rentals, and optimizes redistribution
+across 8 Mumbai city stations. Built as a fully 
+functional React prototype demonstrating real-world 
+data structures including Stack and Queue, interactive 
+maps using Leaflet.js, and clean component-based 
+architecture.
 
 Live demo: Coming Soon
 
@@ -28,6 +37,55 @@ A micro-mobility bicycle share tracking and management dashboard for Mumbai city
 | Redistribution Truck Loader | Implemented |
 | GPS ID Checker | Pending (IoT Integration) |
 | Safe Route Planner | Pending (IoT Integration) |
+
+
+## 📋 Feature Details
+
+### 1.  Dock Availability Tracker
+Real-time dashboard displaying all 8 Mumbai bike 
+stations with available bikes, total docks, and 
+current status. Stations are color coded — green 
+for active, red for maintenance, and amber for low 
+availability.
+
+### 2. Rental Undo Tool
+Records every bike rental transaction using a Stack 
+data structure. The most recent rental is always on 
+top, allowing the operator to safely undo the last 
+transaction in case of any error.
+
+### 3. Repair Queue Organizer
+Manages all bikes needing repair using a Queue data 
+structure. Bikes are added to the end of the queue 
+and fixed from the front — ensuring first reported 
+is first fixed. Supports high, medium and low priority.
+
+### 4. Empty Slot Sorter
+Ranks all stations by number of vacant docks in 
+descending order. Helps operators quickly identify 
+which stations need bike redistribution the most.
+
+### 5. City Map Hub
+Interactive map built with React Leaflet and 
+OpenStreetMap showing all 8 station locations 
+across Mumbai. Each station marker displays name, 
+location, available bikes and current status.
+
+### 6. Redistribution Truck Loader
+Smart bike assignment system that loads maintenance 
+trucks with bikes for redistribution. Tracks capacity 
+of each truck with a visual progress bar and prevents 
+overloading.
+
+### 7. GPS ID Checker ⏳
+Designed UI for verifying bike GPS tracking chip IDs 
+against the entire fleet. Pending IoT hardware 
+integration — requires physical GPS chips on each bike.
+
+### 8.  Safe Route Planner ⏳
+Designed UI for finding safest routes avoiding 
+dangerous areas. Pending IoT and real-time GPS 
+data integration — not covered in current curriculum.
 
 ---
 
@@ -118,6 +176,4 @@ These features are intentionally left as integration-ready UI components so futu
 
 Manan Jain — https://github.com/mananjain20
 
----
 
-If you'd like, I can also generate a short CONTRIBUTING guide, setup a basic issue/PR template, or create a small demo script to populate dummy data. Just tell me which you'd prefer.
