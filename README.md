@@ -26,28 +26,37 @@ A micro-mobility bicycle share tracking and management dashboard for Mumbai city
 ## 📸 Screenshots
 
 ### 1. Dock Availability Dashboard
-![Dashboard](screenshots/1-dashboard.png)
+<img width="1470" height="835" alt="Screenshot 2026-06-13 at 2 16 08 AM" src="https://github.com/user-attachments/assets/3cc6e332-848b-4ef1-a2c0-30f81e67bd87" />
+
 
 ### 2. Rental Management
-![Rentals](screenshots/2-rentals.png)
+<img width="1470" height="826" alt="Screenshot 2026-06-13 at 2 16 56 AM" src="https://github.com/user-attachments/assets/6b7dd71e-7797-486d-962a-838b68ec9393" />
+
 
 ### 3. Repair Queue
-![Repair Queue](screenshots/3-repair-queue.png)
+<img width="1470" height="839" alt="Screenshot 2026-06-13 at 2 32 09 AM" src="https://github.com/user-attachments/assets/8247e257-5441-4ee1-b353-99cb4efd987f" />
+
 
 ### 4. Sort Stations
-![Sort Stations](screenshots/4-sort-stations.png)
+<img width="1470" height="834" alt="Screenshot 2026-06-13 at 2 32 23 AM" src="https://github.com/user-attachments/assets/24703150-59b5-4160-8f1a-db55da4e0357" />
+
 
 ### 5. City Map Hub
-![City Map](screenshots/5-city-map.png)
+<img width="1470" height="834" alt="Screenshot 2026-06-13 at 2 32 46 AM" src="https://github.com/user-attachments/assets/f265602b-d8fa-4e07-be31-9c020842a440" />
+
 
 ### 6. Truck Loader
-![Truck Loader](screenshots/6-truck-loader.png)
+<img width="1470" height="838" alt="Screenshot 2026-06-13 at 2 33 49 AM" src="https://github.com/user-attachments/assets/32e71473-cf24-4973-83b5-180d3a253326" />
+
 
 ### 7. GPS Checker
-![GPS Checker](screenshots/7-gps-checker.png)
+<img width="1470" height="837" alt="Screenshot 2026-06-13 at 2 33 58 AM" src="https://github.com/user-attachments/assets/21759411-d7b5-421d-99c1-c883197ea5d6" />
+
 
 ### 8. Route Planner
-![Route Planner](screenshots/8-route-planner.png)
+<img width="1470" height="839" alt="Screenshot 2026-06-13 at 2 34 06 AM" src="https://github.com/user-attachments/assets/72111020-86ed-4067-9d33-3897929c8df6" />
+
+ 
 
 ---
 
@@ -202,28 +211,3 @@ These features are intentionally left as integration-ready UI components so futu
 
 Manan Jain — https://github.com/mananjain20
 
-## 📸 Screenshots
-
-### 1. Dock Availability Dashboard
-![Dashboard](screenshots/1-dashboard.png)
-
-### 2. Rental Management
-![Rentals](screenshots/2-rentals.png)
-
-### 3. Repair Queue
-![Repair Queue](screenshots/3-repair-queue.png)
-
-### 4. Sort Stations
-![Sort Stations](screenshots/4-sort-stations.png)
-
-### 5. City Map Hub
-![City Map](screenshots/5-city-map.png)
-
-### 6. Truck Loader
-![Truck Loader](screenshots/6-truck-loader.png)
-
-### 7. GPS Checker
-![GPS Checker](screenshots/7-gps-checker.png)
-
-### 8. Route Planner
-![Route Planner](screenshots/8-route-planner.png)
